@@ -1,3 +1,4 @@
  testing file 
 
  This is the modified file
+ new line added
