@@ -1,10 +1,245 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dd95ed2-e358-4b16-a9f9-735673e4d5ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ListDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditionalstatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inKeywordConditionalStatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setsDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tupleDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uniqueNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserInput.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WT2LNOMb71l4n9qyNl7l3FrCJM" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.uniqueNumbers">
+    <configuration name="conditionalstatement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditionalstatement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inKeywordConditionalStatement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inKeywordConditionalStatement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setsDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setsDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tupleDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tupleDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uniqueNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uniqueNumbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.uniqueNumbers" />
+        <item itemvalue="Python.inKeywordConditionalStatement" />
+        <item itemvalue="Python.conditionalstatement" />
+        <item itemvalue="Python.setsDemo" />
+        <item itemvalue="Python.tupleDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="229" key="#ListDemo" timestamp="1579418904025">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="0" y="229" key="#ListDemo/0.23.1680.958@0.23.1680.958" timestamp="1579418904025" />
+    <state x="547" y="127" key="#UserInput" timestamp="1579160093342">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="547" y="127" key="#UserInput/0.23.1680.960@0.23.1680.960" timestamp="1579160093342" />
+    <state x="489" y="199" key="#conditionalstatement" timestamp="1579426606164">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="489" y="199" key="#conditionalstatement/0.23.1680.956@0.23.1680.956" timestamp="1579426606164" />
+    <state x="489" y="199" key="#inKeywordConditionalStatement" timestamp="1579429300145">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="489" y="199" key="#inKeywordConditionalStatement/0.23.1680.956@0.23.1680.956" timestamp="1579429300145" />
+    <state x="749" y="227" key="#setsDemo" timestamp="1579423066615">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="749" y="227" key="#setsDemo/0.23.1680.956@0.23.1680.956" timestamp="1579423066615" />
+    <state x="749" y="229" key="#tupleDemo" timestamp="1579420731696">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="749" y="229" key="#tupleDemo/0.23.1680.958@0.23.1680.958" timestamp="1579420731696" />
+    <state x="489" y="199" key="#uniqueNumbers" timestamp="1579433090323">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="489" y="199" key="#uniqueNumbers/0.23.1680.958@0.23.1680.958" timestamp="1579433090323" />
+    <state x="471" y="108" key="CommitChangelistDialog2" timestamp="1579159944071">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="471" y="108" key="CommitChangelistDialog2/0.23.1680.961@0.23.1680.961" timestamp="1579159944071" />
+    <state width="1379" height="296" key="GridCell.Tab.0.bottom" timestamp="1579433459883">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="296" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579429815490" />
+    <state width="1379" height="296" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1579433459883" />
+    <state width="1379" height="244" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1579160731671" />
+    <state width="1379" height="296" key="GridCell.Tab.0.center" timestamp="1579433459882">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="296" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1579429815489" />
+    <state width="1379" height="296" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1579433459882" />
+    <state width="1379" height="244" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1579160731670" />
+    <state width="1379" height="296" key="GridCell.Tab.0.left" timestamp="1579433459882">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="296" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1579429815489" />
+    <state width="1379" height="296" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1579433459882" />
+    <state width="1379" height="244" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1579160731670" />
+    <state width="1379" height="296" key="GridCell.Tab.0.right" timestamp="1579433459883">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="296" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1579429815490" />
+    <state width="1379" height="296" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1579433459883" />
+    <state width="1379" height="244" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1579160731671" />
+    <state width="1379" height="302" key="GridCell.Tab.1.bottom" timestamp="1579429444632">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1379" height="302" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579429444632" />
+    <state width="1379" height="302" key="GridCell.Tab.1.center" timestamp="1579429444632">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1379" height="302" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1579429444632" />
+    <state width="1379" height="302" key="GridCell.Tab.1.left" timestamp="1579429444632">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1379" height="302" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1579429444632" />
+    <state width="1379" height="302" key="GridCell.Tab.1.right" timestamp="1579429444632">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1379" height="302" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1579429444632" />
+    <state x="629" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579159928006">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="629" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.961@0.23.1680.961" timestamp="1579159928006" />
   </component>
 </project>
